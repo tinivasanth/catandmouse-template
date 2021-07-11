@@ -1,1 +1,1 @@
-# catandmouse-template
+# Cat-and-Mouse-Game
